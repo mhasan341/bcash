@@ -1,0 +1,17 @@
+/* 
+  Localize.strings
+  bCash
+
+  Created by Mahmud on 2021-09-13.
+  
+*/
+
+"Lang_Button_Name" = "বাংলা";
+"Log In" = "Log In";
+"login_label_hint" = "to your bCash account";
+"account_number" = "Account Number";
+"account_pin" = "Account PIN";
+"forgot_pin" = "Forgot PIN?";
+"next" = "Next";
+"no_qr" = "Sorry this function hasn't been implemented yet";
+"forgot_pin_error" = "Please Call 16365 for assistance";

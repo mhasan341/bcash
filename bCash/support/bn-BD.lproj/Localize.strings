@@ -1,0 +1,17 @@
+/* 
+  Localize.strings
+  bCash
+
+  Created by Mahmud on 2021-09-13.
+  
+*/
+
+"Lang_Button_Name" = "English";
+"Log In" = "প্রবেশ করুন";
+"login_label_hint" = "আপনার একাউন্টে";
+"account_number" = "একাউন্ট নাম্বার";
+"account_pin" = "একাউন্ট পিন";
+"forgot_pin" = "পিন ভুলে গিয়েছেন?";
+"next" = "পরবর্তী";
+"no_qr" = "দুঃখিত, এই সেবাটি এখনও যোগ করা হয়নি";
+"forgot_pin_error" = "সহায়তার জন্য ১৬৩৬৫ নাম্বারে কল করুন";
