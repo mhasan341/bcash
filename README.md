@@ -28,4 +28,4 @@ This app consist of two screen only (developed within 24 hours and less than 12h
 2 Files from that course used in this source as I lost my own version in Timemachine. 
 
 
-*_This repository isn't directly or indirectly related to Bkash._*
+*_This repository isn't directly or indirectly has ANY realation with Bkash._*
