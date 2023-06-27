@@ -7,7 +7,7 @@ This app consist of two screen only (developed within 24 hours and less than 12h
 * The App followed MVC pattern as much as I understand. 
 * The Login screen is made entirely using ProgrammaticUI. 
 * Used default resources entirely and No Third Party Library
-* Open for adding tests in future although TDD is best.
+* Open for adding tests in future.
 
 
 ## LoginViewController
